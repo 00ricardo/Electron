@@ -1,0 +1,11 @@
+#selectedText {
+    width: 500px;
+    height: 300px;
+    background-color: rgb(141, 140, 140);
+}
+
+#code {
+    width: 500px;
+    height: 300px;
+    background-color: rgb(194, 122, 122);
+}
